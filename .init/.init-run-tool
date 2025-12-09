@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && python manage.py migrate && python manage.py runserver <host>:<port>",
+    "working_directory": "/tmp/kavia/workspace/code-generation/class-routine-manager-2653-2662/class_routine_backend"
+}
